@@ -1,86 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Privacy Policy for Spreadsheet Copier">
-  <title>Privacy Policy</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    header {
-      background-color: #4CAF50;
-      color: white;
-      padding: 10px 20px;
-      text-align: center;
-    }
-    main {
-      max-width: 800px;
-      margin: 20px auto;
-      background: white;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-    h1, h2, h3 {
-      color: #4CAF50;
-    }
-    p {
-      margin: 10px 0;
-    }
-    footer {
-      text-align: center;
-      padding: 10px;
-      margin-top: 20px;
-      background: #333;
-      color: white;
-    }
-    a {
-      color: #4CAF50;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Privacy Policy</h1>
-  </header>
-  <main>
-    <h2>Introduction</h2>
-    <p>This Privacy Policy explains how we handle your data when using the <strong>Spreadsheet Copier</strong> application. By using this app, you agree to the terms outlined here.</p>
+# Privacy Policy
 
-    <h2>Data We Collect</h2>
-    <p>This application does not collect or store any personal data. All operations, including copying spreadsheets, occur entirely within your Google account.</p>
+## Introduction
+This Privacy Policy explains how I handle your data when using the **Spreadsheet Copier** application. By using this app, you agree to the terms outlined here.
 
-    <h2>Permissions</h2>
-    <p>The app requests the following Google permissions:</p>
-    <ul>
-      <li>Access to view and copy spreadsheets stored in your Google Drive.</li>
-      <li>Create copies of spreadsheets in your Google Drive.</li>
-    </ul>
-    <p>These permissions are only used to perform the requested actions and are not shared or stored outside of your account.</p>
+---
 
-    <h2>Data Security</h2>
-    <p>All operations are performed securely within the Google infrastructure. No data is transferred to external servers or third parties.</p>
+## Data I Collect
+This application does not collect or store any personal data. All operations, including copying spreadsheets, occur entirely within your Google account.
 
-    <h2>Changes to This Policy</h2>
-    <p>We may update this policy from time to time. If significant changes are made, users will be notified via the application or email.</p>
+---
 
-    <h2>Contact Us</h2>
-    <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
-    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-  </main>
-  <footer>
-    <p>&copy; 2024 Spreadsheet Copier. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+## Permissions
+The app requests the following Google permissions:
+
+- Access to view and copy spreadsheets stored in your Google Drive.
+- Create copies of spreadsheets in your Google Drive.
+
+These permissions are only used to perform the requested actions and are not shared or stored outside of your account.
+
+---
+
+## Data Security
+All operations are performed securely within the Google infrastructure. No data is transferred to external servers or third parties.
+
+---
+
+## Changes to This Policy
+We may update this policy from time to time. If significant changes are made, users will be notified via the application or email.
+
+---
+
+## Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: [kit.bernsee@outlook.com](mailto:kit.bernsee@outlook.com)
+
+---
+
+&copy; 2024 Spreadsheet Copier. All rights reserved.
